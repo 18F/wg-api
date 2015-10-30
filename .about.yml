@@ -1,0 +1,28 @@
+---
+name: api
+full_name: API Working Group
+type: docs
+owner_type: "working-group"
+status: active
+testable: false
+description: >
+  We coordinate standards for 18F's production of APIs and support the team in its use of APIs.  
+stage: live
+licenses:
+  wg-api:
+    name: Public Domain (CC0)
+    url: https://creativecommons.org/publicdomain/zero/1.0/ 
+links:
+- url: https://github.com/18F/api-standards
+  text: 18F's API Standards
+- url: https://pages.18f.gov/API-All-the-X/
+  text: /Developer Program 
+- url: https://api.data.gov/
+  text: api.data.gov service
+team:
+- github: gbinal
+  role: lead
+- github: gui
+- github: arowla
+- github: cmc333333
+
