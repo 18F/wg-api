@@ -22,8 +22,9 @@ links:
 team:
 - github: gbinal
   role: lead
-- github: gui
 - github: arowla
+  role: lead
+- github: gui
 - github: cmc333333
 - github: adelevie
 
