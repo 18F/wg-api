@@ -3,7 +3,7 @@ name: api
 full_name: API Working Group
 type: docs
 owner_type: "working-group"
-status: active
+status: paused
 testable: false
 description: >
   We coordinate standards for 18F's production of APIs and support the team in its use of APIs.  
