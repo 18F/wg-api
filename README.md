@@ -28,7 +28,12 @@ Contact Gray Brooks at gray.brooks@gsa.gov and he'll add you to the invite.
 ##### Track Use of API Best Practices 
 
 * [Open Source API documentation](https://api-all-the-x.18f.gov/pages/open_source_documentation/) - _[edit list](https://github.com/18F/API-All-the-X/edit/18f-pages/pages/open_source_documentation.md)_
+* [Write APIs](https://api-all-the-x.18f.gov/pages/write_apis-notes/) - _[edit](https://github.com/18F/API-All-the-X/edit/18f-pages/pages/write_apis-notes.md)_
 * _to do: pilot a further schema for the yml tracking files for links to e.g. forums, feedback pages, etc._ 
+
+
+https://qpp.cms.gov/developers
+
 
 ##### Share interesting news with the [US Government API community](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis)
 
