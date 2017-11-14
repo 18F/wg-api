@@ -34,7 +34,7 @@ Contact Gray Brooks at gray.brooks@gsa.gov and he'll add you to the invite.
 
 ###### At individual agencies
 
-* GSA - [Docs](https://github.com/GSA/api-standards/issues/33) | [api.data.gov](https://github.com/GSA/api-standards/issues/34) | [adding them to the GSA hub and to data.gov](https://github.com/GSA/api-standards/issues/35) | 
+* GSA - [Docs](https://github.com/GSA/api-standards/issues/33) | [api.data.gov](https://github.com/GSA/api-standards/issues/34) | [adding them to the GSA hub and to data.gov](https://github.com/GSA/api-standards/issues/35) | [normalized endpoints](https://github.com/GSA/api-standards/blob/master/api-design/README.md)
 
 ##### Share interesting news with the [US Government API community](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis)
 
