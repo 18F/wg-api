@@ -34,7 +34,7 @@ Contact Gray Brooks at gray.brooks@gsa.gov and he'll add you to the invite.
 
 ###### At individual agencies
 
-* GSA - [Docs](https://github.com/GSA/api-standards/issues/33) | [api.data.gov](https://github.com/GSA/api-standards/issues/34) | [adding them to the GSA hub and to data.gov](https://github.com/GSA/api-standards/issues/35) | [normalized endpoints](https://github.com/GSA/api-standards/blob/master/api-design/README.md) | [Improve data.gov metadata](https://github.com/GSA/api-standards/issues/37) | Consolidate and normalize the API endpoints around api.gsa.gov (need to create)  |  ensure that each API's owners are represented in the working group  (need to create)
+* GSA - [Docs](https://github.com/GSA/api-standards/issues/33) | [api.data.gov](https://github.com/GSA/api-standards/issues/34) | [adding them to the GSA hub and to data.gov](https://github.com/GSA/api-standards/issues/35) | [normalized endpoints](https://github.com/GSA/api-standards/blob/master/api-design/README.md) | [Improve data.gov metadata](https://github.com/GSA/api-standards/issues/37) | Consolidate and normalize the API endpoints around api.gsa.gov (need to create)  |  ensure that each API's owners are represented in the working group  (need to create) | add to programmable web, what else?  |  create an apis.json
 * Across Gov't - [Developer Feedback]()
 * [Work on api.data.gov functional outreach](https://github.com/18F/api.data.gov/issues/301)
 
