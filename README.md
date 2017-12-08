@@ -28,6 +28,7 @@ Contact Gray Brooks at gray.brooks@gsa.gov and he'll add you to the invite.
 
 ##### Track Use of API Best Practices 
 
+* Slash Developer pages - For [compliance with the OMB memo](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-06.pdf), consider a page on pulse?  
 * [Open Source API documentation](https://api-all-the-x.18f.gov/pages/open_source_documentation/) - _[edit list](https://github.com/18F/API-All-the-X/edit/18f-pages/pages/open_source_documentation.md)_
 * [Write APIs](https://api-all-the-x.18f.gov/pages/write_apis-notes/) - _[edit](https://github.com/18F/API-All-the-X/edit/18f-pages/pages/write_apis-notes.md)_
 * _to do: pilot a further schema for the yml tracking files for links to e.g. forums, feedback pages, etc._ 
