@@ -18,6 +18,7 @@ There'll be a room in the GSA headquarters in DC for in-person attendance, as we
   * Newly launched Developer Hubs
   * Overview of Relevant News 
   * Agency Presentation 
-  * General Discussion and Q&A
+  * Requests for Help
   * Proposal for shared goals, shared visions
   * Call to Action 
+  * General Discussion and Q&A
