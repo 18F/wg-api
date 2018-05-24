@@ -42,3 +42,10 @@ Contact Gray Brooks at gray.brooks@gsa.gov and he'll add you to the invite.
 ##### Share interesting news with the [US Government API community](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis)
 
 * [Temp Staging Doc](https://docs.google.com/document/d/1Jmw00m-xi2shi8o5eXdq4zryV1EzN1BsZlrJo5bqfGE/edit) (private)
+
+##### Work on Community of Practice Quarterly Check-ins
+
+* [COP page](https://digital.gov/communities/apis/)
+* [Planning pages](https://github.com/18F/wg-api/tree/18f-pages/quarterly-meetings)
+* [Planning doc](https://docs.google.com/spreadsheets/d/1ciQoDXp9JAaKvjvYmD8MA5ECKa4hjyIrxdBFyVmG5fI/edit#gid=0)
+
