@@ -13,7 +13,7 @@ Contact Gray Brooks at gray.brooks@gsa.gov and he'll add you to the invite.
 
 ##### Track Federal APIs 
 
-* [Individual Federal APIs](https://github.com/18F/API-All-the-X/blob/18f-pages/_data/individual_apis.yml)
+* [Individual Federal APIs](https://github.com/18F/API-All-the-X/blob/18f-pages/_data/individual_apis.yml) | [spreadsheet](https://docs.google.com/spreadsheets/d/1Gq2OXjuzfqYXA-DxgYylfLfCM063Bncb0_hkGX91rqc/edit#gid=0)
 * [Federal Developer Hubs](https://github.com/18F/API-All-the-X/blob/18f-pages/_data/developer_hubs.yml)
   * [Reports of new APIs and Developer Hubs/Backlog to Process](https://github.com/GSA/slash-developer-pages/issues?q=is%3Aopen+sort%3Acreated-desc)
   * [Data Hubs found along the way](https://github.com/GSA/slash-developer-pages/blob/master/loose-slash-data-pages.md)
